@@ -96,8 +96,8 @@ TIM_OCInitTypeDef threePhase_timerConfig(uint16_t period)
 	TIM_OCInitStructure.TIM_OCMode = TIM_OCMode_PWM1; // set on compare catch
 	TIM_OCInitStructure.TIM_OutputState = TIM_OutputState_Enable;
 	TIM_OCInitStructure.TIM_OutputNState = TIM_OutputNState_Enable;
-	TIM_OCInitStructure.TIM_OCPolarity = TIM_OCPolarity_Low;
-	TIM_OCInitStructure.TIM_OCNPolarity = TIM_OCNPolarity_Low;
+	TIM_OCInitStructure.TIM_OCPolarity = TIM_OCPolarity_High;
+	TIM_OCInitStructure.TIM_OCNPolarity = TIM_OCNPolarity_High;
 	TIM_OCInitStructure.TIM_OCIdleState = TIM_OCIdleState_Set;
 	TIM_OCInitStructure.TIM_OCNIdleState = TIM_OCIdleState_Reset;
 
