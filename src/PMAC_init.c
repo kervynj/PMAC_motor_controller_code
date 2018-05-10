@@ -8,14 +8,16 @@
 #include "PMAC_init.h"
 #include "stm32f0xx_gpio.h"
 #include "stm32f0xx_tim.h"
+#include "stm32f0xx_misc.h"
+
 
 // global variables
 TIM_TimeBaseInitTypeDef  TIM_TimeBaseStructure;
 TIM_BDTRInitTypeDef		 TIM_BDTRStructure;
 
-void timer_pinConfig(char port, int pin)
+void timer_pinConfig(char port, int pin, int tim)
 {
-
+	uint8_t GPIO_AF;
 	uint32_t rcc;
 	GPIO_TypeDef *port_num;
 	uint32_t pin_num;
@@ -33,6 +35,16 @@ void timer_pinConfig(char port, int pin)
 			rcc = RCC_AHBPeriph_GPIOB;
 	}
 
+	switch(tim)
+	{
+		case 1:
+			GPIO_AF = GPIO_AF_2;
+			break;
+		case 16:
+			GPIO_AF = GPIO_AF_5;
+			break;
+	}
+
 	pin_num = 0x01 << pin; // left shift to generate corresponding pin address for data bit
 
 	/* GPIOA Clocks enable */
@@ -46,7 +58,7 @@ void timer_pinConfig(char port, int pin)
 	GPIO_InitStructure.GPIO_PuPd = GPIO_PuPd_UP ;
 	GPIO_Init(port_num, &GPIO_InitStructure);
 
-	GPIO_PinAFConfig(port_num, pin, GPIO_AF_2); // arg(2) - PinSource takes on pin Number values, therefore no bit shifting required
+	GPIO_PinAFConfig(port_num, pin, GPIO_AF); // arg(2) - PinSource takes on pin Number values, therefore no bit shifting required
 }
 
 
@@ -73,12 +85,12 @@ TIM_OCInitTypeDef threePhase_timerConfig(uint16_t period)
 	TIM_OCInitTypeDef  TIM_OCInitStructure;
 
 	// configure GPIO pins for timer 1 as 50MHz push-pull
-	timer_pinConfig('A', 8);
-	timer_pinConfig('A', 7);
-	timer_pinConfig('A', 9);
-	timer_pinConfig('B', 0);
-	timer_pinConfig('A', 10);
-	timer_pinConfig('B', 1);
+	timer_pinConfig('A', 8, 1);
+	timer_pinConfig('A', 7, 1);
+	timer_pinConfig('A', 9, 1);
+	timer_pinConfig('B', 0, 1);
+	timer_pinConfig('A', 10,1);
+	timer_pinConfig('B', 1, 1);
 
 	/* TIM1 clock enable */
 	RCC_APB2PeriphClockCmd(RCC_APB2Periph_TIM1 , ENABLE);
@@ -125,3 +137,62 @@ TIM_OCInitTypeDef threePhase_timerConfig(uint16_t period)
 
 	return TIM_OCInitStructure; // return timer output compare structure to main for functionality
 }
+
+void sample_init()
+{
+	TIM_TimeBaseInitTypeDef  TIM_TimeBaseStructure_sample;
+	TIM_OCInitTypeDef  TIM_OCInitStructure_sample;
+	uint16_t periodCount = (SystemCoreClock / (sample_f) ) - 1;
+	uint16_t pulseCount =  (uint16_t) (((uint32_t) 5 * (periodCount - 1)) / 10); // load 50% duty to begin
+
+	timer_pinConfig('A', 6, 16);
+
+	/* TIM16 clock enable */
+	RCC_APB2PeriphClockCmd(RCC_APB2Periph_TIM16 , ENABLE);
+
+	/* Time Base configuration */
+	TIM_TimeBaseStructure_sample.TIM_Prescaler = 0;
+	TIM_TimeBaseStructure_sample.TIM_CounterMode = TIM_CounterMode_Up;
+	TIM_TimeBaseStructure_sample.TIM_Period = periodCount;
+	TIM_TimeBaseStructure_sample.TIM_ClockDivision = 0;
+	TIM_TimeBaseStructure_sample.TIM_RepetitionCounter = 0;
+
+	TIM_TimeBaseInit(TIM16, &TIM_TimeBaseStructure_sample);
+
+	/* Channel Configuration in PWM mode */
+	TIM_OCInitStructure_sample.TIM_OCMode = TIM_OCMode_PWM1; // set on compare catch
+	TIM_OCInitStructure_sample.TIM_OutputState = TIM_OutputState_Enable;
+	TIM_OCInitStructure_sample.TIM_OutputNState = TIM_OutputNState_Enable;
+	TIM_OCInitStructure_sample.TIM_OCPolarity = TIM_OCPolarity_High;
+	TIM_OCInitStructure_sample.TIM_OCNPolarity = TIM_OCNPolarity_High;
+	TIM_OCInitStructure_sample.TIM_OCIdleState = TIM_OCIdleState_Set;
+	TIM_OCInitStructure_sample.TIM_OCNIdleState = TIM_OCIdleState_Reset;
+
+	TIM_OCInitStructure_sample.TIM_Pulse = pulseCount; // update CCR register on update event (counter overflow flag)
+	TIM_OC1Init(TIM16, &TIM_OCInitStructure_sample);
+
+	TIM_Cmd(TIM16, ENABLE);
+
+	TIM_ITConfig(TIM16, TIM_IT_CC1, ENABLE); //configure interrupt for timer
+
+
+	/* TIM1 Main Output Enable */
+	TIM_CtrlPWMOutputs(TIM16, ENABLE);
+}
+
+void sample_interrupt_init()
+{
+	NVIC_InitTypeDef nvicStructure;
+	nvicStructure.NVIC_IRQChannel = TIM16_IRQn;
+	nvicStructure.NVIC_IRQChannelPriority = 0;
+	nvicStructure.NVIC_IRQChannelCmd = ENABLE;
+	NVIC_Init(&nvicStructure);
+}
+
+void sample_time_handler()
+{
+    TIM_ClearITPendingBit(TIM16, TIM_IT_CC1);
+
+    // SVM PWM Algorithm
+}
+

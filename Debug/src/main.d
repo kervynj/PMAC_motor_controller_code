@@ -28,7 +28,8 @@ src/main.o: ../src/main.c \
  C:/Users/mitch/eclipse-workspace/PMAC_controller_code/Utilities/stm32f0_discovery.h \
  C:/Users/mitch/eclipse-workspace/PMAC_controller_code/inc/PMAC_init.h \
  C:/Users/mitch/eclipse-workspace/PMAC_controller_code/StdPeriph_Driver/inc/stm32f0xx_gpio.h \
- C:/Users/mitch/eclipse-workspace/PMAC_controller_code/StdPeriph_Driver/inc/stm32f0xx_tim.h
+ C:/Users/mitch/eclipse-workspace/PMAC_controller_code/StdPeriph_Driver/inc/stm32f0xx_tim.h \
+ C:/Users/mitch/eclipse-workspace/PMAC_controller_code/StdPeriph_Driver/inc/stm32f0xx_misc.h
 
 C:/Users/mitch/eclipse-workspace/PMAC_controller_code/CMSIS/device/stm32f0xx.h:
 
@@ -89,3 +90,5 @@ C:/Users/mitch/eclipse-workspace/PMAC_controller_code/inc/PMAC_init.h:
 C:/Users/mitch/eclipse-workspace/PMAC_controller_code/StdPeriph_Driver/inc/stm32f0xx_gpio.h:
 
 C:/Users/mitch/eclipse-workspace/PMAC_controller_code/StdPeriph_Driver/inc/stm32f0xx_tim.h:
+
+C:/Users/mitch/eclipse-workspace/PMAC_controller_code/StdPeriph_Driver/inc/stm32f0xx_misc.h:

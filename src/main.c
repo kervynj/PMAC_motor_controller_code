@@ -39,9 +39,15 @@ int main(void)
 	/* TIM1 Main Output Enable */
 	TIM_CtrlPWMOutputs(TIM1, ENABLE);
 
+	sample_init();
+	//sample_interrupt_init();
+
 	while(1)
 	{
-
+		if (TIM_GetITStatus(TIM16, TIM_IT_CC1) != RESET)
+		{
+			sample_time_handler();
+		}
 	}
 
 }
