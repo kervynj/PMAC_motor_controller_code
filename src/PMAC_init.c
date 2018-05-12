@@ -9,11 +9,12 @@
 #include "stm32f0xx_gpio.h"
 #include "stm32f0xx_tim.h"
 #include "stm32f0xx_misc.h"
-
+#include "SVM_PWM.h"
 
 // global variables
 TIM_TimeBaseInitTypeDef  TIM_TimeBaseStructure;
 TIM_BDTRInitTypeDef		 TIM_BDTRStructure;
+int theta;
 
 void timer_pinConfig(char port, int pin, int tim)
 {
@@ -110,7 +111,7 @@ TIM_OCInitTypeDef threePhase_timerConfig(uint16_t period)
 	TIM_OCInitStructure.TIM_OutputNState = TIM_OutputNState_Enable;
 	TIM_OCInitStructure.TIM_OCPolarity = TIM_OCPolarity_High;
 	TIM_OCInitStructure.TIM_OCNPolarity = TIM_OCNPolarity_High;
-	TIM_OCInitStructure.TIM_OCIdleState = TIM_OCIdleState_Set;
+	TIM_OCInitStructure.TIM_OCIdleState = TIM_OCIdleState_Reset;
 	TIM_OCInitStructure.TIM_OCNIdleState = TIM_OCIdleState_Reset;
 
 
@@ -127,7 +128,7 @@ TIM_OCInitTypeDef threePhase_timerConfig(uint16_t period)
 	/* Configure Channels 1,2,3 for TIM1 with structure parameters  */
 	TIM_OC1Init(TIM1, &TIM_OCInitStructure);
 	TIM_OC2Init(TIM1, &TIM_OCInitStructure);
-	TIM_OC2Init(TIM1, &TIM_OCInitStructure);
+	TIM_OC3Init(TIM1, &TIM_OCInitStructure);
 
 	/* TIM1 counter enable */
 	TIM_Cmd(TIM1, ENABLE);
@@ -142,7 +143,7 @@ void sample_init()
 {
 	TIM_TimeBaseInitTypeDef  TIM_TimeBaseStructure_sample;
 	TIM_OCInitTypeDef  TIM_OCInitStructure_sample;
-	uint16_t periodCount = (SystemCoreClock / (sample_f) ) - 1;
+	uint16_t periodCount = (SystemCoreClock / (SAMPLE_F) ) - 1;
 	uint16_t pulseCount =  (uint16_t) (((uint32_t) 5 * (periodCount - 1)) / 10); // load 50% duty to begin
 
 	timer_pinConfig('A', 6, 16);
@@ -189,10 +190,16 @@ void sample_interrupt_init()
 	NVIC_Init(&nvicStructure);
 }
 
-void sample_time_handler()
-{
-    TIM_ClearITPendingBit(TIM16, TIM_IT_CC1);
 
-    // SVM PWM Algorithm
+void updateDuty(TIM_TypeDef* TIMx, uint32_t* dutyCount)
+{
+	/* Check the parameters */
+	assert_param(IS_TIM_LIST1_PERIPH(TIMx));
+
+	/* Set the Capture Compare1 Register value */
+	TIMx->CCR1 = dutyCount[0];
+	TIMx->CCR2 = dutyCount[1];
+	TIMx->CCR3 = dutyCount[2];
+
 }
 

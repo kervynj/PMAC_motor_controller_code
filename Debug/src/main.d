@@ -29,7 +29,8 @@ src/main.o: ../src/main.c \
  C:/Users/mitch/eclipse-workspace/PMAC_controller_code/inc/PMAC_init.h \
  C:/Users/mitch/eclipse-workspace/PMAC_controller_code/StdPeriph_Driver/inc/stm32f0xx_gpio.h \
  C:/Users/mitch/eclipse-workspace/PMAC_controller_code/StdPeriph_Driver/inc/stm32f0xx_tim.h \
- C:/Users/mitch/eclipse-workspace/PMAC_controller_code/StdPeriph_Driver/inc/stm32f0xx_misc.h
+ C:/Users/mitch/eclipse-workspace/PMAC_controller_code/StdPeriph_Driver/inc/stm32f0xx_misc.h \
+ C:/Users/mitch/eclipse-workspace/PMAC_controller_code/inc/SVM_PWM.h
 
 C:/Users/mitch/eclipse-workspace/PMAC_controller_code/CMSIS/device/stm32f0xx.h:
 
@@ -92,3 +93,5 @@ C:/Users/mitch/eclipse-workspace/PMAC_controller_code/StdPeriph_Driver/inc/stm32
 C:/Users/mitch/eclipse-workspace/PMAC_controller_code/StdPeriph_Driver/inc/stm32f0xx_tim.h:
 
 C:/Users/mitch/eclipse-workspace/PMAC_controller_code/StdPeriph_Driver/inc/stm32f0xx_misc.h:
+
+C:/Users/mitch/eclipse-workspace/PMAC_controller_code/inc/SVM_PWM.h:

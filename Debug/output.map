@@ -1,9 +1,63 @@
 Archive member included to satisfy reference by file (symbol)
 
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_sin.o)
+                              src/SVM_PWM.o (sinf)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-ef_rem_pio2.o)
+                              c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_sin.o) (__ieee754_rem_pio2f)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_cos.o)
+                              c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_sin.o) (__kernel_cosf)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_rem_pio2.o)
+                              c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-ef_rem_pio2.o) (__kernel_rem_pio2f)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_sin.o)
+                              c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_sin.o) (__kernel_sinf)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_fabs.o)
+                              c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-ef_rem_pio2.o) (fabsf)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_floor.o)
+                              c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_rem_pio2.o) (floorf)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_scalbn.o)
+                              c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_rem_pio2.o) (scalbnf)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_copysign.o)
+                              c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_scalbn.o) (copysignf)
 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
                               StdPeriph_Driver/src/stm32f0xx_rcc.o (__aeabi_uidiv)
 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
                               c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_arm_cmpsf2.o)
+                              c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-ef_rem_pio2.o) (__aeabi_fcmpeq)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_fixunssfsi.o)
+                              src/PMAC_init.o (__aeabi_f2uiz)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(addsf3.o)
+                              src/SVM_PWM.o (__aeabi_fadd)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(divsf3.o)
+                              src/PMAC_init.o (__aeabi_fdiv)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(eqsf2.o)
+                              c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_arm_cmpsf2.o) (__eqsf2)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(gesf2.o)
+                              c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_arm_cmpsf2.o) (__gesf2)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(lesf2.o)
+                              c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_arm_cmpsf2.o) (__lesf2)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(mulsf3.o)
+                              src/SVM_PWM.o (__aeabi_fmul)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(subsf3.o)
+                              src/PMAC_init.o (__aeabi_fsub)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(fixsfsi.o)
+                              c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-ef_rem_pio2.o) (__aeabi_f2iz)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(floatsisf.o)
+                              src/SVM_PWM.o (__aeabi_i2f)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(floatunsisf.o)
+                              src/PMAC_init.o (__aeabi_ui2f)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(divdf3.o)
+                              src/SVM_PWM.o (__aeabi_ddiv)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(muldf3.o)
+                              src/SVM_PWM.o (__aeabi_dmul)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(subdf3.o)
+                              src/SVM_PWM.o (__aeabi_dsub)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(extendsfdf2.o)
+                              src/SVM_PWM.o (__aeabi_f2d)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(truncdfsf2.o)
+                              src/SVM_PWM.o (__aeabi_d2f)
+c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_clzsi2.o)
+                              c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(addsf3.o) (__clzsi2)
 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-errno.o)
                               src/syscalls.o (__errno)
 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-exit.o)
@@ -34,14 +88,20 @@ __lock___arc4random_mutex
                     0x1               c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-lock.o)
 TIM_TimeBaseStructure
                     0xc               src/PMAC_init.o
+Va                  0x4               src/main.o
+t2                  0x4               src/main.o
 __lock___env_recursive_mutex
                     0x1               c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-lock.o)
 __lock___sinit_recursive_mutex
                     0x1               c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-lock.o)
 __lock___malloc_recursive_mutex
                     0x1               c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-lock.o)
+duties              0x4               src/main.o
+to                  0x4               src/main.o
 TIM_OCInitStructure
                     0x14              src/main.o
+t1                  0x4               src/main.o
+Vb                  0x4               src/main.o
 TIM_BDTRStructure   0xe               src/PMAC_init.o
 __lock___at_quick_exit_mutex
                     0x1               c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-lock.o)
@@ -2695,6 +2755,7 @@ Discarded input sections
  .group         0x00000000        0x8 src/PMAC_init.o
  .group         0x00000000        0x8 src/PMAC_init.o
  .group         0x00000000        0x8 src/PMAC_init.o
+ .group         0x00000000        0x8 src/PMAC_init.o
  .text          0x00000000        0x0 src/PMAC_init.o
  .data          0x00000000        0x0 src/PMAC_init.o
  .bss           0x00000000        0x0 src/PMAC_init.o
@@ -2731,6 +2792,86 @@ Discarded input sections
  .debug_macro   0x00000000       0x34 src/PMAC_init.o
  .debug_macro   0x00000000       0x3a src/PMAC_init.o
  .debug_macro   0x00000000      0x17f src/PMAC_init.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .group         0x00000000        0x8 src/SVM_PWM.o
+ .text          0x00000000        0x0 src/SVM_PWM.o
+ .data          0x00000000        0x0 src/SVM_PWM.o
+ .debug_macro   0x00000000      0x8bc src/SVM_PWM.o
+ .debug_macro   0x00000000       0x16 src/SVM_PWM.o
+ .debug_macro   0x00000000       0x7b src/SVM_PWM.o
+ .debug_macro   0x00000000       0x34 src/SVM_PWM.o
+ .debug_macro   0x00000000       0x22 src/SVM_PWM.o
+ .debug_macro   0x00000000       0x87 src/SVM_PWM.o
+ .debug_macro   0x00000000       0x51 src/SVM_PWM.o
+ .debug_macro   0x00000000       0xef src/SVM_PWM.o
+ .debug_macro   0x00000000       0x6a src/SVM_PWM.o
+ .debug_macro   0x00000000      0x1df src/SVM_PWM.o
+ .debug_macro   0x00000000      0x249 src/SVM_PWM.o
+ .debug_macro   0x00000000     0x3334 src/SVM_PWM.o
+ .debug_macro   0x00000000      0x18b src/SVM_PWM.o
+ .debug_macro   0x00000000       0x28 src/SVM_PWM.o
+ .debug_macro   0x00000000       0xe7 src/SVM_PWM.o
+ .debug_macro   0x00000000       0x93 src/SVM_PWM.o
+ .debug_macro   0x00000000       0x70 src/SVM_PWM.o
+ .debug_macro   0x00000000      0x225 src/SVM_PWM.o
+ .debug_macro   0x00000000       0xb8 src/SVM_PWM.o
+ .debug_macro   0x00000000      0x16f src/SVM_PWM.o
+ .debug_macro   0x00000000      0x123 src/SVM_PWM.o
+ .debug_macro   0x00000000      0x2a0 src/SVM_PWM.o
+ .debug_macro   0x00000000       0x70 src/SVM_PWM.o
+ .debug_macro   0x00000000       0xb2 src/SVM_PWM.o
+ .debug_macro   0x00000000      0x44c src/SVM_PWM.o
+ .debug_macro   0x00000000      0x46a src/SVM_PWM.o
+ .debug_macro   0x00000000      0x396 src/SVM_PWM.o
+ .debug_macro   0x00000000      0x750 src/SVM_PWM.o
+ .debug_macro   0x00000000      0x34d src/SVM_PWM.o
+ .debug_macro   0x00000000       0x34 src/SVM_PWM.o
+ .debug_macro   0x00000000       0x3a src/SVM_PWM.o
+ .debug_macro   0x00000000      0x17f src/SVM_PWM.o
+ .debug_macro   0x00000000       0x1c src/SVM_PWM.o
+ .group         0x00000000        0x8 src/main.o
  .group         0x00000000        0x8 src/main.o
  .group         0x00000000        0x8 src/main.o
  .group         0x00000000        0x8 src/main.o
@@ -2796,7 +2937,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x34d src/main.o
  .debug_macro   0x00000000       0x34 src/main.o
  .debug_macro   0x00000000       0x3a src/main.o
- .debug_macro   0x00000000       0x10 src/main.o
+ .debug_macro   0x00000000       0x16 src/main.o
+ .debug_macro   0x00000000       0x1c src/main.o
  .group         0x00000000        0x8 src/syscalls.o
  .group         0x00000000        0x8 src/syscalls.o
  .group         0x00000000        0x8 src/syscalls.o
@@ -2983,10 +3125,73 @@ Discarded input sections
  .text          0x00000000       0x14 startup/startup_stm32f0xx.o
  .data          0x00000000        0x0 startup/startup_stm32f0xx.o
  .bss           0x00000000        0x0 startup/startup_stm32f0xx.o
+ .text          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_sin.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_sin.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_sin.o)
+ .text          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-ef_rem_pio2.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-ef_rem_pio2.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-ef_rem_pio2.o)
+ .text          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_cos.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_cos.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_cos.o)
+ .text          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_rem_pio2.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_rem_pio2.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_rem_pio2.o)
+ .text          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_sin.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_sin.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_sin.o)
+ .text          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_fabs.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_fabs.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_fabs.o)
+ .text          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_floor.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_floor.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_floor.o)
+ .text          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_scalbn.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_scalbn.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_scalbn.o)
+ .text          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_copysign.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_copysign.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_copysign.o)
  .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
  .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
  .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
  .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_fixunssfsi.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(addsf3.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(divsf3.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(eqsf2.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(eqsf2.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(gesf2.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(lesf2.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(lesf2.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(subsf3.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(subsf3.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(fixsfsi.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(fixsfsi.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(floatunsisf.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(floatunsisf.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(divdf3.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(divdf3.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(muldf3.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(muldf3.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(subdf3.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(subdf3.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(extendsfdf2.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(extendsfdf2.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(truncdfsf2.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(truncdfsf2.o)
+ .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_clzsi2.o)
  .text          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-errno.o)
  .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-errno.o)
  .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-errno.o)
@@ -3012,10 +3217,6 @@ Discarded input sections
  .text          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-memset.o)
  .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-memset.o)
  .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-memset.o)
- .text.memset   0x00000000       0x94 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-memset.o)
- .debug_frame   0x00000000       0x30 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-memset.o)
- .ARM.attributes
-                0x00000000       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-memset.o)
  .text          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__call_atexit.o)
  .data          0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__call_atexit.o)
  .bss           0x00000000        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__call_atexit.o)
@@ -3095,6 +3296,7 @@ LOAD StdPeriph_Driver/src/stm32f0xx_usart.o
 LOAD StdPeriph_Driver/src/stm32f0xx_wwdg.o
 LOAD Utilities/stm32f0_discovery.o
 LOAD src/PMAC_init.o
+LOAD src/SVM_PWM.o
 LOAD src/main.o
 LOAD src/syscalls.o
 LOAD src/system_stm32f0xx.o
@@ -3117,7 +3319,7 @@ LOAD c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x
                 0x08000000                g_pfnVectors
                 0x080000c4                . = ALIGN (0x4)
 
-.text           0x080000c4     0x1304
+.text           0x080000c4     0x4ffc
                 0x080000c4                . = ALIGN (0x4)
  *(.text)
  .text          0x080000c4       0x60 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
@@ -3128,204 +3330,303 @@ LOAD c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x
  .text          0x08000238        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
                 0x08000238                __aeabi_idiv0
                 0x08000238                __aeabi_ldiv0
+ .text          0x0800023c       0x74 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_arm_cmpsf2.o)
+                0x0800023c                __aeabi_cfrcmple
+                0x08000244                __aeabi_cfcmpeq
+                0x08000244                __aeabi_cfcmple
+                0x08000254                __aeabi_fcmpeq
+                0x08000260                __aeabi_fcmplt
+                0x08000274                __aeabi_fcmple
+                0x08000288                __aeabi_fcmpgt
+                0x0800029c                __aeabi_fcmpge
+ .text          0x080002b0       0x30 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_fixunssfsi.o)
+                0x080002b0                __fixunssfsi
+                0x080002b0                __aeabi_f2uiz
+ .text          0x080002e0      0x324 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(addsf3.o)
+                0x080002e0                __aeabi_fadd
+ .text          0x08000604      0x290 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(divsf3.o)
+                0x08000604                __aeabi_fdiv
+ .text          0x08000894       0x4c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(eqsf2.o)
+                0x08000894                __eqsf2
+                0x08000894                __nesf2
+ .text          0x080008e0       0x80 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(gesf2.o)
+                0x080008e0                __gesf2
+                0x080008e0                __gtsf2
+ .text          0x08000960       0x84 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(lesf2.o)
+                0x08000960                __ltsf2
+                0x08000960                __lesf2
+ .text          0x080009e4      0x240 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(mulsf3.o)
+                0x080009e4                __aeabi_fmul
+ .text          0x08000c24      0x338 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(subsf3.o)
+                0x08000c24                __aeabi_fsub
+ .text          0x08000f5c       0x40 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(fixsfsi.o)
+                0x08000f5c                __aeabi_f2iz
+ .text          0x08000f9c       0xa0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(floatsisf.o)
+                0x08000f9c                __aeabi_i2f
+ .text          0x0800103c       0x8c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(floatunsisf.o)
+                0x0800103c                __aeabi_ui2f
+ .text          0x080010c8      0x668 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(divdf3.o)
+                0x080010c8                __aeabi_ddiv
+ .text          0x08001730      0x500 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(muldf3.o)
+                0x08001730                __aeabi_dmul
+ .text          0x08001c30      0x62c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(subdf3.o)
+                0x08001c30                __aeabi_dsub
+ .text          0x0800225c       0xa4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(extendsfdf2.o)
+                0x0800225c                __aeabi_f2d
+ .text          0x08002300      0x114 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(truncdfsf2.o)
+                0x08002300                __aeabi_d2f
+ .text          0x08002414       0x3c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_clzsi2.o)
+                0x08002414                __clzsi2
  *(.text*)
  .text.GPIO_Init
-                0x0800023c      0x126 StdPeriph_Driver/src/stm32f0xx_gpio.o
-                0x0800023c                GPIO_Init
+                0x08002450      0x126 StdPeriph_Driver/src/stm32f0xx_gpio.o
+                0x08002450                GPIO_Init
  .text.GPIO_PinAFConfig
-                0x08000362       0xa4 StdPeriph_Driver/src/stm32f0xx_gpio.o
-                0x08000362                GPIO_PinAFConfig
- *fill*         0x08000406        0x2 
+                0x08002576       0xa4 StdPeriph_Driver/src/stm32f0xx_gpio.o
+                0x08002576                GPIO_PinAFConfig
+ *fill*         0x0800261a        0x2 
  .text.RCC_AHBPeriphClockCmd
-                0x08000408       0x40 StdPeriph_Driver/src/stm32f0xx_rcc.o
-                0x08000408                RCC_AHBPeriphClockCmd
+                0x0800261c       0x40 StdPeriph_Driver/src/stm32f0xx_rcc.o
+                0x0800261c                RCC_AHBPeriphClockCmd
  .text.RCC_APB2PeriphClockCmd
-                0x08000448       0x40 StdPeriph_Driver/src/stm32f0xx_rcc.o
-                0x08000448                RCC_APB2PeriphClockCmd
+                0x0800265c       0x40 StdPeriph_Driver/src/stm32f0xx_rcc.o
+                0x0800265c                RCC_APB2PeriphClockCmd
  .text.TIM_TimeBaseInit
-                0x08000488       0xf0 StdPeriph_Driver/src/stm32f0xx_tim.o
-                0x08000488                TIM_TimeBaseInit
- .text.TIM_Cmd  0x08000578       0x40 StdPeriph_Driver/src/stm32f0xx_tim.o
-                0x08000578                TIM_Cmd
+                0x0800269c       0xf0 StdPeriph_Driver/src/stm32f0xx_tim.o
+                0x0800269c                TIM_TimeBaseInit
+ .text.TIM_Cmd  0x0800278c       0x40 StdPeriph_Driver/src/stm32f0xx_tim.o
+                0x0800278c                TIM_Cmd
  .text.TIM_BDTRConfig
-                0x080005b8       0x4c StdPeriph_Driver/src/stm32f0xx_tim.o
-                0x080005b8                TIM_BDTRConfig
+                0x080027cc       0x4c StdPeriph_Driver/src/stm32f0xx_tim.o
+                0x080027cc                TIM_BDTRConfig
  .text.TIM_BDTRStructInit
-                0x08000604       0x3a StdPeriph_Driver/src/stm32f0xx_tim.o
-                0x08000604                TIM_BDTRStructInit
- *fill*         0x0800063e        0x2 
+                0x08002818       0x3a StdPeriph_Driver/src/stm32f0xx_tim.o
+                0x08002818                TIM_BDTRStructInit
+ *fill*         0x08002852        0x2 
  .text.TIM_CtrlPWMOutputs
-                0x08000640       0x4c StdPeriph_Driver/src/stm32f0xx_tim.o
-                0x08000640                TIM_CtrlPWMOutputs
+                0x08002854       0x4c StdPeriph_Driver/src/stm32f0xx_tim.o
+                0x08002854                TIM_CtrlPWMOutputs
  .text.TIM_OC1Init
-                0x0800068c      0x1a4 StdPeriph_Driver/src/stm32f0xx_tim.o
-                0x0800068c                TIM_OC1Init
+                0x080028a0      0x1a4 StdPeriph_Driver/src/stm32f0xx_tim.o
+                0x080028a0                TIM_OC1Init
  .text.TIM_OC2Init
-                0x08000830      0x1a4 StdPeriph_Driver/src/stm32f0xx_tim.o
-                0x08000830                TIM_OC2Init
+                0x08002a44      0x1a4 StdPeriph_Driver/src/stm32f0xx_tim.o
+                0x08002a44                TIM_OC2Init
  .text.TIM_OC3Init
-                0x080009d4      0x1a8 StdPeriph_Driver/src/stm32f0xx_tim.o
-                0x080009d4                TIM_OC3Init
+                0x08002be8      0x1a8 StdPeriph_Driver/src/stm32f0xx_tim.o
+                0x08002be8                TIM_OC3Init
  .text.TIM_ITConfig
-                0x08000b7c       0x52 StdPeriph_Driver/src/stm32f0xx_tim.o
-                0x08000b7c                TIM_ITConfig
+                0x08002d90       0x52 StdPeriph_Driver/src/stm32f0xx_tim.o
+                0x08002d90                TIM_ITConfig
  .text.TIM_GetITStatus
-                0x08000bce       0x7e StdPeriph_Driver/src/stm32f0xx_tim.o
-                0x08000bce                TIM_GetITStatus
+                0x08002de2       0x7e StdPeriph_Driver/src/stm32f0xx_tim.o
+                0x08002de2                TIM_GetITStatus
  .text.TIM_ClearITPendingBit
-                0x08000c4c       0x22 StdPeriph_Driver/src/stm32f0xx_tim.o
-                0x08000c4c                TIM_ClearITPendingBit
- *fill*         0x08000c6e        0x2 
+                0x08002e60       0x22 StdPeriph_Driver/src/stm32f0xx_tim.o
+                0x08002e60                TIM_ClearITPendingBit
+ *fill*         0x08002e82        0x2 
  .text.timer_pinConfig
-                0x08000c70       0xc4 src/PMAC_init.o
-                0x08000c70                timer_pinConfig
+                0x08002e84       0xc4 src/PMAC_init.o
+                0x08002e84                timer_pinConfig
  .text.threePhase_timerConfig
-                0x08000d34      0x178 src/PMAC_init.o
-                0x08000d34                threePhase_timerConfig
+                0x08002f48      0x178 src/PMAC_init.o
+                0x08002f48                threePhase_timerConfig
  .text.sample_init
-                0x08000eac      0x104 src/PMAC_init.o
-                0x08000eac                sample_init
- .text.sample_time_handler
-                0x08000fb0       0x18 src/PMAC_init.o
-                0x08000fb0                sample_time_handler
- .text.main     0x08000fc8       0xd0 src/main.o
-                0x08000fc8                main
+                0x080030c0      0x120 src/PMAC_init.o
+                0x080030c0                sample_init
+ .text.updateDuty
+                0x080031e0       0x2a src/PMAC_init.o
+                0x080031e0                updateDuty
+ *fill*         0x0800320a        0x2 
+ .text.vref_calc
+                0x0800320c       0x88 src/SVM_PWM.o
+                0x0800320c                vref_calc
+ .text.section  0x08003294      0x11c src/SVM_PWM.o
+                0x08003294                section
+ .text.durations
+                0x080033b0       0xe8 src/SVM_PWM.o
+                0x080033b0                durations
+ .text.vectorA  0x08003498       0xa4 src/SVM_PWM.o
+                0x08003498                vectorA
+ .text.vectorB  0x0800353c       0xa4 src/SVM_PWM.o
+                0x0800353c                vectorB
+ .text.threePhase_SVM
+                0x080035e0      0x148 src/SVM_PWM.o
+                0x080035e0                threePhase_SVM
+ .text.main     0x08003728      0x1a0 src/main.o
+                0x08003728                main
  .text.SystemInit
-                0x08001098       0x8c src/system_stm32f0xx.o
-                0x08001098                SystemInit
+                0x080038c8       0x8c src/system_stm32f0xx.o
+                0x080038c8                SystemInit
  .text.SetSysClock
-                0x08001124       0x94 src/system_stm32f0xx.o
+                0x08003954       0x94 src/system_stm32f0xx.o
  .text.Reset_Handler
-                0x080011b8       0x50 startup/startup_stm32f0xx.o
-                0x080011b8                Reset_Handler
+                0x080039e8       0x50 startup/startup_stm32f0xx.o
+                0x080039e8                Reset_Handler
  .text.Default_Handler
-                0x08001208        0x2 startup/startup_stm32f0xx.o
-                0x08001208                TIM1_CC_IRQHandler
-                0x08001208                HardFault_Handler
-                0x08001208                ADC1_COMP_IRQHandler
-                0x08001208                SysTick_Handler
-                0x08001208                PVD_IRQHandler
-                0x08001208                PendSV_Handler
-                0x08001208                NMI_Handler
-                0x08001208                I2C1_IRQHandler
-                0x08001208                SPI1_IRQHandler
-                0x08001208                TIM6_DAC_IRQHandler
-                0x08001208                EXTI2_3_IRQHandler
-                0x08001208                I2C2_IRQHandler
-                0x08001208                TIM17_IRQHandler
-                0x08001208                RTC_IRQHandler
-                0x08001208                TIM16_IRQHandler
-                0x08001208                TIM3_IRQHandler
-                0x08001208                EXTI4_15_IRQHandler
-                0x08001208                RCC_IRQHandler
-                0x08001208                DMA1_Channel1_IRQHandler
-                0x08001208                Default_Handler
-                0x08001208                CEC_IRQHandler
-                0x08001208                TIM14_IRQHandler
-                0x08001208                DMA1_Channel4_5_IRQHandler
-                0x08001208                TIM15_IRQHandler
-                0x08001208                EXTI0_1_IRQHandler
-                0x08001208                SPI2_IRQHandler
-                0x08001208                SVC_Handler
-                0x08001208                TS_IRQHandler
-                0x08001208                WWDG_IRQHandler
-                0x08001208                TIM2_IRQHandler
-                0x08001208                DMA1_Channel2_3_IRQHandler
-                0x08001208                USART2_IRQHandler
-                0x08001208                FLASH_IRQHandler
-                0x08001208                USART1_IRQHandler
-                0x08001208                TIM1_BRK_UP_TRG_COM_IRQHandler
- *fill*         0x0800120a        0x2 
+                0x08003a38        0x2 startup/startup_stm32f0xx.o
+                0x08003a38                TIM1_CC_IRQHandler
+                0x08003a38                HardFault_Handler
+                0x08003a38                ADC1_COMP_IRQHandler
+                0x08003a38                SysTick_Handler
+                0x08003a38                PVD_IRQHandler
+                0x08003a38                PendSV_Handler
+                0x08003a38                NMI_Handler
+                0x08003a38                I2C1_IRQHandler
+                0x08003a38                SPI1_IRQHandler
+                0x08003a38                TIM6_DAC_IRQHandler
+                0x08003a38                EXTI2_3_IRQHandler
+                0x08003a38                I2C2_IRQHandler
+                0x08003a38                TIM17_IRQHandler
+                0x08003a38                RTC_IRQHandler
+                0x08003a38                TIM16_IRQHandler
+                0x08003a38                TIM3_IRQHandler
+                0x08003a38                EXTI4_15_IRQHandler
+                0x08003a38                RCC_IRQHandler
+                0x08003a38                DMA1_Channel1_IRQHandler
+                0x08003a38                Default_Handler
+                0x08003a38                CEC_IRQHandler
+                0x08003a38                TIM14_IRQHandler
+                0x08003a38                DMA1_Channel4_5_IRQHandler
+                0x08003a38                TIM15_IRQHandler
+                0x08003a38                EXTI0_1_IRQHandler
+                0x08003a38                SPI2_IRQHandler
+                0x08003a38                SVC_Handler
+                0x08003a38                TS_IRQHandler
+                0x08003a38                WWDG_IRQHandler
+                0x08003a38                TIM2_IRQHandler
+                0x08003a38                DMA1_Channel2_3_IRQHandler
+                0x08003a38                USART2_IRQHandler
+                0x08003a38                FLASH_IRQHandler
+                0x08003a38                USART1_IRQHandler
+                0x08003a38                TIM1_BRK_UP_TRG_COM_IRQHandler
+ *fill*         0x08003a3a        0x2 
+ .text.sinf     0x08003a3c       0x7c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_sin.o)
+                0x08003a3c                sinf
+ .text.__ieee754_rem_pio2f
+                0x08003ab8      0x2fc c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-ef_rem_pio2.o)
+                0x08003ab8                __ieee754_rem_pio2f
+ .text.__kernel_cosf
+                0x08003db4      0x194 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_cos.o)
+                0x08003db4                __kernel_cosf
+ .text.__kernel_rem_pio2f
+                0x08003f48      0x774 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_rem_pio2.o)
+                0x08003f48                __kernel_rem_pio2f
+ .text.__kernel_sinf
+                0x080046bc       0xf4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_sin.o)
+                0x080046bc                __kernel_sinf
+ .text.fabsf    0x080047b0        0x8 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_fabs.o)
+                0x080047b0                fabsf
+ .text.floorf   0x080047b8       0x9c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_floor.o)
+                0x080047b8                floorf
+ .text.scalbnf  0x08004854       0xc8 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_scalbn.o)
+                0x08004854                scalbnf
+ .text.copysignf
+                0x0800491c        0xc c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_copysign.o)
+                0x0800491c                copysignf
  .text.__libc_init_array
-                0x0800120c       0x48 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-init.o)
-                0x0800120c                __libc_init_array
+                0x08004928       0x48 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-init.o)
+                0x08004928                __libc_init_array
+ .text.memset   0x08004970       0x94 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-memset.o)
+                0x08004970                memset
  .text.startup.register_fini
-                0x08001254       0x18 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__call_atexit.o)
- .text.atexit   0x0800126c       0x10 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-atexit.o)
-                0x0800126c                atexit
+                0x08004a04       0x18 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08004a1c       0x10 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-atexit.o)
+                0x08004a1c                atexit
  .text.__libc_fini_array
-                0x0800127c       0x34 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-fini.o)
-                0x0800127c                __libc_fini_array
+                0x08004a2c       0x34 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-fini.o)
+                0x08004a2c                __libc_fini_array
  .text.__retarget_lock_acquire_recursive
-                0x080012b0        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-lock.o)
-                0x080012b0                __retarget_lock_acquire_recursive
+                0x08004a60        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-lock.o)
+                0x08004a60                __retarget_lock_acquire_recursive
  .text.__retarget_lock_release_recursive
-                0x080012b4        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-lock.o)
-                0x080012b4                __retarget_lock_release_recursive
+                0x08004a64        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-lock.o)
+                0x08004a64                __retarget_lock_release_recursive
  .text.__register_exitproc
-                0x080012b8       0xf4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__atexit.o)
-                0x080012b8                __register_exitproc
+                0x08004a68       0xf4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__atexit.o)
+                0x08004a68                __register_exitproc
  *(.rodata)
+ .rodata        0x08004b5c       0x38 src/SVM_PWM.o
+ .rodata        0x08004b94       0x80 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(divsf3.o)
+ .rodata        0x08004c14       0x40 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(mulsf3.o)
+ .rodata        0x08004c54       0x40 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(divdf3.o)
+ .rodata        0x08004c94       0x40 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(muldf3.o)
  *(.rodata*)
+ .rodata.npio2_hw
+                0x08004cd4       0x80 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-ef_rem_pio2.o)
+ .rodata.two_over_pi
+                0x08004d54      0x318 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-ef_rem_pio2.o)
+ .rodata.PIo2   0x0800506c       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_rem_pio2.o)
+ .rodata.init_jk
+                0x08005098        0xc c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_rem_pio2.o)
  .rodata._global_impure_ptr
-                0x080013ac        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-impure.o)
-                0x080013ac                _global_impure_ptr
+                0x080050a4        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-impure.o)
+                0x080050a4                _global_impure_ptr
  *(.glue_7)
- .glue_7        0x080013b0        0x0 linker stubs
+ .glue_7        0x080050a8        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x080013b0        0x0 linker stubs
+ .glue_7t       0x080050a8        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x080013b0        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
+ .eh_frame      0x080050a8        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
  *(.init)
- .init          0x080013b0        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crti.o
-                0x080013b0                _init
- .init          0x080013b4        0x8 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtn.o
+ .init          0x080050a8        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crti.o
+                0x080050a8                _init
+ .init          0x080050ac        0x8 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtn.o
  *(.fini)
- .fini          0x080013bc        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crti.o
-                0x080013bc                _fini
- .fini          0x080013c0        0x8 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtn.o
-                0x080013c8                . = ALIGN (0x4)
-                0x080013c8                _etext = .
+ .fini          0x080050b4        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crti.o
+                0x080050b4                _fini
+ .fini          0x080050b8        0x8 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtn.o
+                0x080050c0                . = ALIGN (0x4)
+                0x080050c0                _etext = .
 
-.vfp11_veneer   0x080013c8        0x0
- .vfp11_veneer  0x080013c8        0x0 linker stubs
+.vfp11_veneer   0x080050c0        0x0
+ .vfp11_veneer  0x080050c0        0x0 linker stubs
 
-.v4_bx          0x080013c8        0x0
- .v4_bx         0x080013c8        0x0 linker stubs
+.v4_bx          0x080050c0        0x0
+ .v4_bx         0x080050c0        0x0 linker stubs
 
-.iplt           0x080013c8        0x0
- .iplt          0x080013c8        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
+.iplt           0x080050c0        0x0
+ .iplt          0x080050c0        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
 
-.rel.dyn        0x080013c8        0x0
- .rel.iplt      0x080013c8        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
+.rel.dyn        0x080050c0        0x0
+ .rel.iplt      0x080050c0        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x080013c8        0x0
-                0x080013c8                __exidx_start = .
+.ARM            0x080050c0        0x0
+                0x080050c0                __exidx_start = .
  *(.ARM.exidx*)
-                0x080013c8                __exidx_end = .
+                0x080050c0                __exidx_end = .
 
-.preinit_array  0x080013c8        0x0
-                0x080013c8                PROVIDE (__preinit_array_start, .)
+.preinit_array  0x080050c0        0x0
+                0x080050c0                PROVIDE (__preinit_array_start, .)
  *(.preinit_array*)
-                0x080013c8                PROVIDE (__preinit_array_end, .)
+                0x080050c0                PROVIDE (__preinit_array_end, .)
 
-.init_array     0x080013c8        0x8
-                0x080013c8                PROVIDE (__init_array_start, .)
+.init_array     0x080050c0        0x8
+                0x080050c0                PROVIDE (__init_array_start, .)
  *(SORT(.init_array.*))
  .init_array.00000
-                0x080013c8        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__call_atexit.o)
+                0x080050c0        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__call_atexit.o)
  *(.init_array*)
- .init_array    0x080013cc        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
-                0x080013d0                PROVIDE (__init_array_end, .)
+ .init_array    0x080050c4        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
+                0x080050c8                PROVIDE (__init_array_end, .)
 
-.fini_array     0x080013d0        0x4
-                0x080013d0                PROVIDE (__fini_array_start, .)
+.fini_array     0x080050c8        0x4
+                0x080050c8                PROVIDE (__fini_array_start, .)
  *(SORT(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x080013d0        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
-                0x080013d4                PROVIDE (__fini_array_end, .)
-                0x080013d4                _sidata = LOADADDR (.data)
+ .fini_array    0x080050c8        0x4 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
+                0x080050cc                PROVIDE (__fini_array_end, .)
+                0x080050cc                _sidata = LOADADDR (.data)
 
-.data           0x20000000      0x444 load address 0x080013d4
+.data           0x20000000      0x444 load address 0x080050cc
                 0x20000000                . = ALIGN (0x4)
                 0x20000000                _sdata = .
  *(.data)
- .data          0x20000000        0x2 src/main.o
-                0x20000000                period
- *fill*         0x20000002        0x2 
+ .data          0x20000000        0x4 src/main.o
+                0x20000000                sector
  .data          0x20000004       0x14 src/system_stm32f0xx.o
                 0x20000004                SystemCoreClock
                 0x20000008                AHBPrescTable
@@ -3338,53 +3639,65 @@ LOAD c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x
                 0x20000444                . = ALIGN (0x4)
                 0x20000444                _edata = .
 
-.jcr            0x20000444        0x0 load address 0x08001818
+.jcr            0x20000444        0x0 load address 0x08005510
  .jcr           0x20000444        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
 
-.igot.plt       0x20000444        0x0 load address 0x08001818
+.igot.plt       0x20000444        0x0 load address 0x08005510
  .igot.plt      0x20000444        0x0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
                 0x20000444                . = ALIGN (0x4)
 
-.bss            0x20000444       0x74 load address 0x08001818
+.bss            0x20000444       0xc0 load address 0x08005510
                 0x20000444                _sbss = .
                 0x20000444                __bss_start__ = _sbss
  *(.bss)
  .bss           0x20000444       0x1c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtbegin.o
- .bss           0x20000460        0x2 src/main.o
-                0x20000460                pulseCount
+ .bss           0x20000460       0x24 src/SVM_PWM.o
+ .bss           0x20000484       0x14 src/main.o
+                0x20000484                t
+                0x20000488                count
+                0x2000048c                theta
+                0x20000490                adjTheta
+                0x20000494                pulseCount
+                0x20000496                periodCount
  *(.bss*)
  *(COMMON)
- *fill*         0x20000462        0x2 
- COMMON         0x20000464       0x1a src/PMAC_init.o
-                0x20000464                TIM_TimeBaseStructure
-                0x20000470                TIM_BDTRStructure
- *fill*         0x2000047e        0x2 
- COMMON         0x20000480       0x14 src/main.o
-                0x20000480                TIM_OCInitStructure
- COMMON         0x20000494       0x21 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-lock.o)
-                0x20000494                __lock___atexit_recursive_mutex
-                0x20000498                __lock___arc4random_mutex
-                0x2000049c                __lock___env_recursive_mutex
-                0x200004a0                __lock___sinit_recursive_mutex
-                0x200004a4                __lock___malloc_recursive_mutex
-                0x200004a8                __lock___at_quick_exit_mutex
-                0x200004ac                __lock___dd_hash_mutex
-                0x200004b0                __lock___tz_mutex
-                0x200004b4                __lock___sfp_recursive_mutex
-                0x200004b8                . = ALIGN (0x4)
- *fill*         0x200004b5        0x3 
-                0x200004b8                _ebss = .
-                0x200004b8                __bss_end__ = _ebss
+ COMMON         0x20000498       0x1a src/PMAC_init.o
+                0x20000498                TIM_TimeBaseStructure
+                0x200004a4                TIM_BDTRStructure
+ *fill*         0x200004b2        0x2 
+ COMMON         0x200004b4       0x2c src/main.o
+                0x200004b4                Va
+                0x200004b8                t2
+                0x200004bc                duties
+                0x200004c0                to
+                0x200004c4                TIM_OCInitStructure
+                0x200004d8                t1
+                0x200004dc                Vb
+ COMMON         0x200004e0       0x21 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-lock.o)
+                0x200004e0                __lock___atexit_recursive_mutex
+                0x200004e4                __lock___arc4random_mutex
+                0x200004e8                __lock___env_recursive_mutex
+                0x200004ec                __lock___sinit_recursive_mutex
+                0x200004f0                __lock___malloc_recursive_mutex
+                0x200004f4                __lock___at_quick_exit_mutex
+                0x200004f8                __lock___dd_hash_mutex
+                0x200004fc                __lock___tz_mutex
+                0x20000500                __lock___sfp_recursive_mutex
+                0x20000504                . = ALIGN (0x4)
+ *fill*         0x20000501        0x3 
+                0x20000504                _ebss = .
+                0x20000504                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x200004b8       0x80 load address 0x08001818
-                0x200004b8                . = ALIGN (0x8)
-                0x200004b8                PROVIDE (end, .)
+                0x20000504       0x84 load address 0x08005510
+                0x20000508                . = ALIGN (0x8)
+ *fill*         0x20000504        0x4 
+                0x20000508                PROVIDE (end, .)
                 [!provide]                PROVIDE (_end, .)
-                0x200004b8                . = (. + _Min_Heap_Size)
-                0x20000538                . = (. + _Min_Stack_Size)
- *fill*         0x200004b8       0x80 
-                0x20000538                . = ALIGN (0x8)
+                0x20000508                . = (. + _Min_Heap_Size)
+                0x20000588                . = (. + _Min_Stack_Size)
+ *fill*         0x20000508       0x80 
+                0x20000588                . = ALIGN (0x8)
 
 .ARM.attributes
                 0x00000000       0x28
@@ -3402,52 +3715,112 @@ LOAD c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x
  .ARM.attributes
                 0x000000dd       0x31 src/PMAC_init.o
  .ARM.attributes
-                0x0000010e       0x31 src/main.o
+                0x0000010e       0x31 src/SVM_PWM.o
  .ARM.attributes
-                0x0000013f       0x31 src/system_stm32f0xx.o
+                0x0000013f       0x31 src/main.o
  .ARM.attributes
-                0x00000170       0x21 startup/startup_stm32f0xx.o
+                0x00000170       0x31 src/system_stm32f0xx.o
  .ARM.attributes
-                0x00000191       0x1e c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+                0x000001a1       0x21 startup/startup_stm32f0xx.o
  .ARM.attributes
-                0x000001af       0x1e c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+                0x000001c2       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_sin.o)
  .ARM.attributes
-                0x000001cd       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-impure.o)
+                0x000001ee       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-ef_rem_pio2.o)
  .ARM.attributes
-                0x000001f9       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-init.o)
+                0x0000021a       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_cos.o)
  .ARM.attributes
-                0x00000225       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__call_atexit.o)
+                0x00000246       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_rem_pio2.o)
  .ARM.attributes
-                0x00000251       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-atexit.o)
+                0x00000272       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_sin.o)
  .ARM.attributes
-                0x0000027d       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-fini.o)
+                0x0000029e       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_fabs.o)
  .ARM.attributes
-                0x000002a9       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-lock.o)
+                0x000002ca       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_floor.o)
  .ARM.attributes
-                0x000002d5       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__atexit.o)
+                0x000002f6       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_scalbn.o)
  .ARM.attributes
-                0x00000301       0x1e c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtn.o
+                0x00000322       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_copysign.o)
+ .ARM.attributes
+                0x0000034e       0x1e c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000036c       0x1e c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000038a       0x1e c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x000003a8       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_fixunssfsi.o)
+ .ARM.attributes
+                0x000003d4       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(addsf3.o)
+ .ARM.attributes
+                0x00000400       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(divsf3.o)
+ .ARM.attributes
+                0x0000042c       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(eqsf2.o)
+ .ARM.attributes
+                0x00000458       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(gesf2.o)
+ .ARM.attributes
+                0x00000484       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(lesf2.o)
+ .ARM.attributes
+                0x000004b0       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(mulsf3.o)
+ .ARM.attributes
+                0x000004dc       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(subsf3.o)
+ .ARM.attributes
+                0x00000508       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(fixsfsi.o)
+ .ARM.attributes
+                0x00000534       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(floatsisf.o)
+ .ARM.attributes
+                0x00000560       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(floatunsisf.o)
+ .ARM.attributes
+                0x0000058c       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(divdf3.o)
+ .ARM.attributes
+                0x000005b8       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(muldf3.o)
+ .ARM.attributes
+                0x000005e4       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(subdf3.o)
+ .ARM.attributes
+                0x00000610       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(extendsfdf2.o)
+ .ARM.attributes
+                0x0000063c       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(truncdfsf2.o)
+ .ARM.attributes
+                0x00000668       0x1e c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000686       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000006b2       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000006de       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000070a       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000736       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000762       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000078e       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x000007ba       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000007e6       0x1e c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m/crtn.o
 OUTPUT(PMAC_controller_code.elf elf32-littlearm)
 
-.debug_info     0x00000000     0x3b9a
+.debug_info     0x00000000     0x47d3
  .debug_info    0x00000000      0x5f9 StdPeriph_Driver/src/stm32f0xx_gpio.o
  .debug_info    0x000005f9      0x9bc StdPeriph_Driver/src/stm32f0xx_rcc.o
  .debug_info    0x00000fb5     0x1c7d StdPeriph_Driver/src/stm32f0xx_tim.o
- .debug_info    0x00002c32      0x870 src/PMAC_init.o
- .debug_info    0x000034a2      0x39d src/main.o
- .debug_info    0x0000383f      0x2dc src/system_stm32f0xx.o
- .debug_info    0x00003b1b       0x7f startup/startup_stm32f0xx.o
+ .debug_info    0x00002c32      0x8ae src/PMAC_init.o
+ .debug_info    0x000034e0      0xb24 src/SVM_PWM.o
+ .debug_info    0x00004004      0x474 src/main.o
+ .debug_info    0x00004478      0x2dc src/system_stm32f0xx.o
+ .debug_info    0x00004754       0x7f startup/startup_stm32f0xx.o
 
-.debug_abbrev   0x00000000      0x934
+.debug_abbrev   0x00000000      0xbca
  .debug_abbrev  0x00000000      0x18c StdPeriph_Driver/src/stm32f0xx_gpio.o
  .debug_abbrev  0x0000018c      0x204 StdPeriph_Driver/src/stm32f0xx_rcc.o
  .debug_abbrev  0x00000390      0x1b5 StdPeriph_Driver/src/stm32f0xx_tim.o
- .debug_abbrev  0x00000545      0x1a4 src/PMAC_init.o
- .debug_abbrev  0x000006e9      0x101 src/main.o
- .debug_abbrev  0x000007ea      0x138 src/system_stm32f0xx.o
- .debug_abbrev  0x00000922       0x12 startup/startup_stm32f0xx.o
+ .debug_abbrev  0x00000545      0x1a8 src/PMAC_init.o
+ .debug_abbrev  0x000006ed      0x266 src/SVM_PWM.o
+ .debug_abbrev  0x00000953      0x12d src/main.o
+ .debug_abbrev  0x00000a80      0x138 src/system_stm32f0xx.o
+ .debug_abbrev  0x00000bb8       0x12 startup/startup_stm32f0xx.o
 
-.debug_aranges  0x00000000      0x588
+.debug_aranges  0x00000000      0x5d0
  .debug_aranges
                 0x00000000       0x80 StdPeriph_Driver/src/stm32f0xx_gpio.o
  .debug_aranges
@@ -3457,55 +3830,74 @@ OUTPUT(PMAC_controller_code.elf elf32-littlearm)
  .debug_aranges
                 0x000004d0       0x40 src/PMAC_init.o
  .debug_aranges
-                0x00000510       0x20 src/main.o
+                0x00000510       0x48 src/SVM_PWM.o
  .debug_aranges
-                0x00000530       0x30 src/system_stm32f0xx.o
+                0x00000558       0x20 src/main.o
  .debug_aranges
-                0x00000560       0x28 startup/startup_stm32f0xx.o
+                0x00000578       0x30 src/system_stm32f0xx.o
+ .debug_aranges
+                0x000005a8       0x28 startup/startup_stm32f0xx.o
 
-.debug_ranges   0x00000000      0x520
+.debug_ranges   0x00000000      0x558
  .debug_ranges  0x00000000       0x70 StdPeriph_Driver/src/stm32f0xx_gpio.o
  .debug_ranges  0x00000070      0x140 StdPeriph_Driver/src/stm32f0xx_rcc.o
  .debug_ranges  0x000001b0      0x2f0 StdPeriph_Driver/src/stm32f0xx_tim.o
  .debug_ranges  0x000004a0       0x30 src/PMAC_init.o
- .debug_ranges  0x000004d0       0x10 src/main.o
- .debug_ranges  0x000004e0       0x20 src/system_stm32f0xx.o
- .debug_ranges  0x00000500       0x20 startup/startup_stm32f0xx.o
+ .debug_ranges  0x000004d0       0x38 src/SVM_PWM.o
+ .debug_ranges  0x00000508       0x10 src/main.o
+ .debug_ranges  0x00000518       0x20 src/system_stm32f0xx.o
+ .debug_ranges  0x00000538       0x20 startup/startup_stm32f0xx.o
 
-.debug_macro    0x00000000     0x16b6
+.debug_macro    0x00000000     0x232f
  .debug_macro   0x00000000      0x17c StdPeriph_Driver/src/stm32f0xx_gpio.o
  .debug_macro   0x0000017c      0x17f StdPeriph_Driver/src/stm32f0xx_gpio.o
  .debug_macro   0x000002fb      0x196 StdPeriph_Driver/src/stm32f0xx_rcc.o
  .debug_macro   0x00000491      0x446 StdPeriph_Driver/src/stm32f0xx_rcc.o
  .debug_macro   0x000008d7      0x198 StdPeriph_Driver/src/stm32f0xx_tim.o
  .debug_macro   0x00000a6f      0x74a StdPeriph_Driver/src/stm32f0xx_tim.o
- .debug_macro   0x000011b9      0x189 src/PMAC_init.o
- .debug_macro   0x00001342       0x10 src/PMAC_init.o
- .debug_macro   0x00001352      0x18c src/main.o
- .debug_macro   0x000014de       0x64 src/main.o
- .debug_macro   0x00001542      0x174 src/system_stm32f0xx.o
+ .debug_macro   0x000011b9      0x192 src/PMAC_init.o
+ .debug_macro   0x0000134b       0x16 src/PMAC_init.o
+ .debug_macro   0x00001361       0x1c src/PMAC_init.o
+ .debug_macro   0x0000137d      0x236 src/SVM_PWM.o
+ .debug_macro   0x000015b3       0x58 src/SVM_PWM.o
+ .debug_macro   0x0000160b       0x35 src/SVM_PWM.o
+ .debug_macro   0x00001640       0x9c src/SVM_PWM.o
+ .debug_macro   0x000016dc      0x174 src/SVM_PWM.o
+ .debug_macro   0x00001850       0x58 src/SVM_PWM.o
+ .debug_macro   0x000018a8       0x1f src/SVM_PWM.o
+ .debug_macro   0x000018c7       0x43 src/SVM_PWM.o
+ .debug_macro   0x0000190a       0x20 src/SVM_PWM.o
+ .debug_macro   0x0000192a      0x187 src/SVM_PWM.o
+ .debug_macro   0x00001ab1      0x330 src/SVM_PWM.o
+ .debug_macro   0x00001de1      0x1e1 src/SVM_PWM.o
+ .debug_macro   0x00001fc2      0x195 src/main.o
+ .debug_macro   0x00002157       0x64 src/main.o
+ .debug_macro   0x000021bb      0x174 src/system_stm32f0xx.o
 
-.debug_line     0x00000000     0x36af
+.debug_line     0x00000000     0x3f17
  .debug_line    0x00000000      0x7c6 StdPeriph_Driver/src/stm32f0xx_gpio.o
  .debug_line    0x000007c6      0x9f5 StdPeriph_Driver/src/stm32f0xx_rcc.o
  .debug_line    0x000011bb      0xf2e StdPeriph_Driver/src/stm32f0xx_tim.o
- .debug_line    0x000020e9      0x754 src/PMAC_init.o
- .debug_line    0x0000283d      0x71a src/main.o
- .debug_line    0x00002f57      0x6d7 src/system_stm32f0xx.o
- .debug_line    0x0000362e       0x81 startup/startup_stm32f0xx.o
+ .debug_line    0x000020e9      0x764 src/PMAC_init.o
+ .debug_line    0x0000284d      0x842 src/SVM_PWM.o
+ .debug_line    0x0000308f      0x730 src/main.o
+ .debug_line    0x000037bf      0x6d7 src/system_stm32f0xx.o
+ .debug_line    0x00003e96       0x81 startup/startup_stm32f0xx.o
 
-.debug_str      0x00000000    0x2cdfa
- .debug_str     0x00000000    0x2b617 StdPeriph_Driver/src/stm32f0xx_gpio.o
+.debug_str      0x00000000    0x30556
+ .debug_str     0x00000000    0x2b612 StdPeriph_Driver/src/stm32f0xx_gpio.o
                               0x2b7c5 (size before relaxing)
- .debug_str     0x0002b617      0x619 StdPeriph_Driver/src/stm32f0xx_rcc.o
+ .debug_str     0x0002b612      0x619 StdPeriph_Driver/src/stm32f0xx_rcc.o
                               0x2bb1c (size before relaxing)
- .debug_str     0x0002bc30      0xc2d StdPeriph_Driver/src/stm32f0xx_tim.o
+ .debug_str     0x0002bc2b      0xc2d StdPeriph_Driver/src/stm32f0xx_tim.o
                               0x2c198 (size before relaxing)
- .debug_str     0x0002c85d      0x34f src/PMAC_init.o
-                              0x2bbe7 (size before relaxing)
- .debug_str     0x0002cbac      0x1d3 src/main.o
-                              0x2b839 (size before relaxing)
- .debug_str     0x0002cd7f       0x7b src/system_stm32f0xx.o
+ .debug_str     0x0002c858      0x3b2 src/PMAC_init.o
+                              0x2bc4f (size before relaxing)
+ .debug_str     0x0002cc0a     0x36ef src/SVM_PWM.o
+                              0x2ed43 (size before relaxing)
+ .debug_str     0x000302f9      0x1e2 src/main.o
+                              0x2b8bf (size before relaxing)
+ .debug_str     0x000304db       0x7b src/system_stm32f0xx.o
                               0x2b5a5 (size before relaxing)
 
 .comment        0x00000000       0x7f
@@ -3514,20 +3906,48 @@ OUTPUT(PMAC_controller_code.elf elf32-littlearm)
  .comment       0x0000007f       0x80 StdPeriph_Driver/src/stm32f0xx_rcc.o
  .comment       0x0000007f       0x80 StdPeriph_Driver/src/stm32f0xx_tim.o
  .comment       0x0000007f       0x80 src/PMAC_init.o
+ .comment       0x0000007f       0x80 src/SVM_PWM.o
  .comment       0x0000007f       0x80 src/main.o
  .comment       0x0000007f       0x80 src/system_stm32f0xx.o
 
-.debug_frame    0x00000000     0x156c
+.debug_frame    0x00000000     0x1b3c
  .debug_frame   0x00000000      0x1b0 StdPeriph_Driver/src/stm32f0xx_gpio.o
  .debug_frame   0x000001b0      0x4e4 StdPeriph_Driver/src/stm32f0xx_rcc.o
  .debug_frame   0x00000694      0xbb0 StdPeriph_Driver/src/stm32f0xx_tim.o
- .debug_frame   0x00001244       0xac src/PMAC_init.o
- .debug_frame   0x000012f0       0x30 src/main.o
- .debug_frame   0x00001320       0x6c src/system_stm32f0xx.o
- .debug_frame   0x0000138c       0x20 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
- .debug_frame   0x000013ac       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-init.o)
- .debug_frame   0x000013d8       0x54 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__call_atexit.o)
- .debug_frame   0x0000142c       0x28 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-atexit.o)
- .debug_frame   0x00001454       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-fini.o)
- .debug_frame   0x00001480       0xb0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-lock.o)
- .debug_frame   0x00001530       0x3c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00001244       0xb0 src/PMAC_init.o
+ .debug_frame   0x000012f4       0xd0 src/SVM_PWM.o
+ .debug_frame   0x000013c4       0x34 src/main.o
+ .debug_frame   0x000013f8       0x6c src/system_stm32f0xx.o
+ .debug_frame   0x00001464       0x28 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_sin.o)
+ .debug_frame   0x0000148c       0x3c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-ef_rem_pio2.o)
+ .debug_frame   0x000014c8       0x38 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_cos.o)
+ .debug_frame   0x00001500       0x3c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_rem_pio2.o)
+ .debug_frame   0x0000153c       0x38 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-kf_sin.o)
+ .debug_frame   0x00001574       0x20 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_fabs.o)
+ .debug_frame   0x00001594       0x34 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_floor.o)
+ .debug_frame   0x000015c8       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_scalbn.o)
+ .debug_frame   0x000015f4       0x20 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libm.a(lib_a-sf_copysign.o)
+ .debug_frame   0x00001614       0x20 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00001634       0x28 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x0000165c       0x34 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(addsf3.o)
+ .debug_frame   0x00001690       0x3c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(divsf3.o)
+ .debug_frame   0x000016cc       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(eqsf2.o)
+ .debug_frame   0x000016f8       0x30 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(gesf2.o)
+ .debug_frame   0x00001728       0x30 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(lesf2.o)
+ .debug_frame   0x00001758       0x3c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(mulsf3.o)
+ .debug_frame   0x00001794       0x38 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(subsf3.o)
+ .debug_frame   0x000017cc       0x20 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(fixsfsi.o)
+ .debug_frame   0x000017ec       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(floatsisf.o)
+ .debug_frame   0x00001818       0x28 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(floatunsisf.o)
+ .debug_frame   0x00001840       0x3c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(divdf3.o)
+ .debug_frame   0x0000187c       0x3c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(muldf3.o)
+ .debug_frame   0x000018b8       0x38 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(subdf3.o)
+ .debug_frame   0x000018f0       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(extendsfdf2.o)
+ .debug_frame   0x0000191c       0x30 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v6-m\libgcc.a(truncdfsf2.o)
+ .debug_frame   0x0000194c       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-init.o)
+ .debug_frame   0x00001978       0x30 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x000019a8       0x54 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000019fc       0x28 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00001a24       0x2c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x00001a50       0xb0 c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-lock.o)
+ .debug_frame   0x00001b00       0x3c c:/users/mitch/.eclipse/org.eclipse.platform_4.7.3_1709980481_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.15.0.201708311556/tools/compiler/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v6-m\libc.a(lib_a-__atexit.o)
