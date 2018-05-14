@@ -18,7 +18,7 @@ int section(float theta, float* adjTheta);
 void durations(float* to, float* t1, float* t2, float theta);
 int* vectorA(int sector);
 int* vectorB(int sector);
-uint32_t* threePhase_SVM(uint16_t periodCount, float to, float t1, float t2, int Va[], int Vb[]);
+uint32_t* threePhase_SVM(uint16_t periodCount, float to, float t1, float t2, int V1[], int V2[]);
 
 
 #endif /* SVM_PWM_H_ */

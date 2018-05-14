@@ -164,23 +164,27 @@ int* vectorB(int sector)
 }
 
 
-uint32_t* threePhase_SVM(uint16_t periodCount, float to, float t1, float t2, int Va[], int Vb[])
+uint32_t* threePhase_SVM(uint16_t periodCount, float to, float t1, float t2, int V1[], int V2[])
 {
 	static uint32_t d[3];
 
 	for (int i=0; i <3; i++)
 	{
-		if ((Va[i] ==0) && (Vb[i] ==0))
+		if ((V1[i] ==0) && (V2[i] ==0)) //  Switching bits 00, positive duty cycle limited to to/2 (V7)
 		{
 			d[i] = (SystemCoreClock*(to/2 + t1 + t2));
 		}
-		else if ((Va[i] ==0) && (Vb[i] ==1))
+		else if ((V1[i] ==0) && (V2[i] ==1)) // Switching bits are 01, positive duty cycle for t2 + to/2 (V2 & V7)
 		{
 			d[i] = (SystemCoreClock*(to/2 + t1));
 		}
-		else if ((Va[i] ==1) && (Vb[i]==1))
+		else if ((V1[i] ==1) && (V2[i]==1)) // Switching bits are 11, positive duty cycle for t1 + t2 + to/2
 		{
 			d[i] = (SystemCoreClock*(to/2));
+		}
+		else if ((V1[i] == 1) && (V2[i]==0)) // Switching bits are 10, positive duty cycle for t1 + to/2 (V1 & V7)
+		{
+			d[i] = (SystemCoreClock*(to/2 + t2)); // switch V1 & V2 in switching sequence to avoid frequency modulation
 		}
 	}
 
